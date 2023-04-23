@@ -11,9 +11,4 @@ The MIRNet-v2 architecture includes a novel feature extraction model, a regularl
 ## Results
 The notebook showcases the results of test images from the LoL dataset enhanced by MIRNet-v2 and compares them with images enhanced via the PIL.ImageOps.autocontrast() function. The implementation is based on the papers "Learning Enriched Features for Fast Image Restoration and Enhancement" and "Selective Kernel Networks," and closely follows the official PyTorch implementation of MIRNet-v2 and the TensorFlow implementation of MIRNet-v1.
 
-## Usage
-To run the project, follow these steps:
 
-Clone the repository: git clone [https://github.com/yourusername/low-light-image-enhancement](https://github.com/neelgandhi108/low-light-image-enhancement/)
-Install the required packages: pip install -r requirements.txt
-Open the notebook in Jupyter or any other compatible notebook environment and run the cells.
